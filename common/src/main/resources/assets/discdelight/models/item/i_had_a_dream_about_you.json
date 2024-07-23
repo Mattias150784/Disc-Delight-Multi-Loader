@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "discdelight:item/i_had_a_dream_about_you"
+  }
+}

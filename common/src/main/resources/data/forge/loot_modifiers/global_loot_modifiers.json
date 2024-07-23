@@ -1,0 +1,14 @@
+{
+  "entries": [
+    "discdelight:discs_from_desert_pyramid",
+    "discdelight:discs_from_mineshaft",
+    "discdelight:discs_from_stronghold_corridor",
+    "discdelight:discs_from_stronghold_crossing",
+    "discdelight:discs_from_nether_bridge",
+    "discdelight:discs_from_jungle_temple",
+    "discdelight:discs_from_pillar_outpost",
+    "discdelight:discs_from_mansion",
+    "discdelight:discs_from_dungeon"
+  ],
+  "replace": false
+}

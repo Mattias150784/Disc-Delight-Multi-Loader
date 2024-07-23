@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "discdelight:item/traveled_far_and_wide"
+  }
+}

@@ -1,0 +1,747 @@
+{
+  "taking_flight": {
+    "sounds": [
+      {
+        "name": "discdelight:taking_flight",
+        "stream": true
+      }
+    ]
+  },
+  "shooting_stars": {
+    "sounds": [
+      {
+        "name": "discdelight:shooting_stars",
+        "stream": true
+      }
+    ]
+  },
+  "waltz_in_a_mirror": {
+    "sounds": [
+      {
+        "name": "discdelight:waltz_in_a_mirror",
+        "stream": true
+      }
+    ]
+  },
+  "classical_violin": {
+    "sounds": [
+      {
+        "name": "discdelight:classical_violin",
+        "stream": true
+      }
+    ]
+  },
+  "ship_raid": {
+    "sounds": [
+      {
+        "name": "discdelight:ship_raid",
+        "stream": true
+      }
+    ]
+  },
+  "classical_royal": {
+    "sounds": [
+      {
+        "name": "discdelight:classical_royal",
+        "stream": true
+      }
+    ]
+  },
+  "soft_rush": {
+    "sounds": [
+      {
+        "name": "discdelight:soft_rush",
+        "stream": true
+      }
+    ]
+  },
+  "ways_of_the_wizard": {
+    "sounds": [
+      {
+        "name": "discdelight:ways_of_the_wizard",
+        "stream": true
+      }
+    ]
+  },
+  "fur_elise": {
+    "sounds": [
+      {
+        "name": "discdelight:fur_elise",
+        "stream": true
+      }
+    ]
+  },
+  "blue_waves": {
+    "sounds": [
+      {
+        "name": "discdelight:blue_waves",
+        "stream": true
+      }
+    ]
+  },
+  "a_thousand_times": {
+    "sounds": [
+      {
+        "name": "discdelight:a_thousand_times",
+        "stream": true
+      }
+    ]
+  },
+  "awaken": {
+    "sounds": [
+      {
+        "name": "discdelight:awaken",
+        "stream": true
+      }
+    ]
+  },
+  "beautiful_piano": {
+    "sounds": [
+      {
+        "name": "discdelight:beautiful_piano",
+        "stream": true
+      }
+    ]
+  },
+  "business_groove": {
+    "sounds": [
+      {
+        "name": "discdelight:business_groove",
+        "stream": true
+      }
+    ]
+  },
+  "congo_square": {
+    "sounds": [
+      {
+        "name": "discdelight:congo_square",
+        "stream": true
+      }
+    ]
+  },
+  "ladies_night": {
+    "sounds": [
+      {
+        "name": "discdelight:ladies_night",
+        "stream": true
+      }
+    ]
+  },
+  "saloon_piano": {
+    "sounds": [
+      {
+        "name": "discdelight:saloon_piano",
+        "stream": true
+      }
+    ]
+  },
+  "seperation": {
+    "sounds": [
+      {
+        "name": "discdelight:seperation",
+        "stream": true
+      }
+    ]
+  },
+
+  "the_prelude": {
+    "sounds": [
+      {
+        "name": "discdelight:the_prelude",
+        "stream": true
+      }
+    ]
+  },
+  "whimsical_mood": {
+    "sounds": [
+      {
+        "name": "discdelight:whimsical_mood",
+        "stream": true
+      }
+    ]
+  },
+
+  "adventures_in_the_sea": {
+    "sounds": [
+      {
+        "name": "discdelight:adventures_in_the_sea",
+        "stream": true
+      }
+    ]
+  },
+  "aristocrat": {
+    "sounds": [
+      {
+        "name": "discdelight:aristocrat",
+        "stream": true
+      }
+    ]
+  },
+  "betrayal": {
+    "sounds": [
+      {
+        "name": "discdelight:betrayal",
+        "stream": true
+      }
+    ]
+  },
+  "dreamscape_odyssey": {
+    "sounds": [
+      {
+        "name": "discdelight:dreamscape_odyssey",
+        "stream": true
+      }
+    ]
+  },
+  "europe_travel": {
+    "sounds": [
+      {
+        "name": "discdelight:europe_travel",
+        "stream": true
+      }
+    ]
+  },
+  "medieval_music": {
+    "sounds": [
+      {
+        "name": "discdelight:medieval_music",
+        "stream": true
+      }
+    ]
+  },
+  "ragtime_piano": {
+    "sounds": [
+      {
+        "name": "discdelight:ragtime_piano",
+        "stream": true
+      }
+    ]
+  },
+  "traveled_far_and_wide": {
+    "sounds": [
+      {
+        "name": "discdelight:traveled_far_and_wide",
+        "stream": true
+      }
+    ]
+  },
+  "verdant": {
+    "sounds": [
+      {
+        "name": "discdelight:verdant",
+        "stream": true
+      }
+    ]
+  },
+  "western_in_groove": {
+    "sounds": [
+      {
+        "name": "discdelight:western_in_groove",
+        "stream": true
+      }
+    ]
+  },
+  "back_to_dawn_city": {
+    "sounds": [
+      {
+        "name": "discdelight:back_to_dawn_city",
+        "stream": true
+      }
+    ]
+  },
+
+  "christmas_carol": {
+    "sounds": [
+      {
+        "name": "discdelight:christmas_carol",
+        "stream": true
+      }
+    ]
+  },
+  "dancing_under_stars": {
+    "sounds": [
+      {
+        "name": "discdelight:dancing_under_stars",
+        "stream": true
+      }
+    ]
+  },
+  "endless_horizons": {
+    "sounds": [
+      {
+        "name": "discdelight:endless_horizons",
+        "stream": true
+      }
+    ]
+  },
+  "in_my_arms": {
+    "sounds": [
+      {
+        "name": "discdelight:in_my_arms",
+        "stream": true
+      }
+    ]
+  },
+  "island_breeze": {
+    "sounds": [
+      {
+        "name": "discdelight:island_breeze",
+        "stream": true
+      }
+    ]
+  },
+  "lotus_sky": {
+    "sounds": [
+      {
+        "name": "discdelight:lotus_sky",
+        "stream": true
+      }
+    ]
+  },
+  "love_run": {
+    "sounds": [
+      {
+        "name": "discdelight:love_run",
+        "stream": true
+      }
+    ]
+  },
+  "reach_beyond": {
+    "sounds": [
+      {
+        "name": "discdelight:reach_beyond",
+        "stream": true
+      }
+    ]
+  },
+  "run_away_with_me": {
+    "sounds": [
+      {
+        "name": "discdelight:run_away_with_me",
+        "stream": true
+      }
+    ]
+  },
+  "sweet_serenade": {
+    "sounds": [
+      {
+        "name": "discdelight:sweet_serenade",
+        "stream": true
+      }
+    ]
+  },
+  "whimsical_pagans": {
+    "sounds": [
+      {
+        "name": "discdelight:whimsical_pagans",
+        "stream": true
+      }
+    ]
+  },
+
+  "snowdrops": {
+    "sounds": [
+      {
+        "name": "discdelight:snowdrops",
+        "stream": true
+      }
+    ]
+  },
+  "path": {
+    "sounds": [
+      {
+        "name": "discdelight:path",
+        "stream": true
+      }
+    ]
+  },
+  "jazz_piano": {
+    "sounds": [
+      {
+        "name": "discdelight:jazz_piano",
+        "stream": true
+      }
+    ]
+  },
+  "i_had_a_dream_about_you": {
+    "sounds": [
+      {
+        "name": "discdelight:i_had_a_dream_about_you",
+        "stream": true
+      }
+    ]
+  },
+  "hopeful_piano": {
+    "sounds": [
+      {
+        "name": "discdelight:hopeful_piano",
+        "stream": true
+      }
+    ]
+  },
+  "czerny_etude": {
+    "sounds": [
+      {
+        "name": "discdelight:czerny_etude",
+        "stream": true
+      }
+    ]
+  },
+  "crystal_soul": {
+    "sounds": [
+      {
+        "name": "discdelight:crystal_soul",
+        "stream": true
+      }
+    ]
+  },
+  "ave_maria": {
+    "sounds": [
+      {
+        "name": "discdelight:ave_maria",
+        "stream": true
+      }
+    ]
+  },
+  "anthem_piano": {
+    "sounds": [
+      {
+        "name": "discdelight:anthem_piano",
+        "stream": true
+      }
+    ]
+  },
+  "acoustic_guitar": {
+    "sounds": [
+      {
+        "name": "discdelight:acoustic_guitar",
+        "stream": true
+      }
+    ]
+  },
+
+  "special_mashup": {
+    "sounds": [
+      {
+        "name": "discdelight:special_mashup",
+        "stream": true
+      }
+    ]
+  },
+  "alive": {
+    "sounds": [
+      {
+        "name": "discdelight:alive",
+        "stream": true
+      }
+    ]
+  },
+  "bad_omen": {
+    "sounds": [
+      {
+        "name": "discdelight:bad_omen",
+        "stream": true
+      }
+    ]
+  },
+  "below": {
+    "sounds": [
+      {
+        "name": "discdelight:below",
+        "stream": true
+      }
+    ]
+  },
+  "bonus_level": {
+    "sounds": [
+      {
+        "name": "discdelight:bonus_level",
+        "stream": true
+      }
+    ]
+  },
+  "breeze": {
+    "sounds": [
+      {
+        "name": "discdelight:breeze",
+        "stream": true
+      }
+    ]
+  },
+
+  "brute": {
+    "sounds": [
+      {
+        "name": "discdelight:brute",
+        "stream": true
+      }
+    ]
+  },
+  "cascade": {
+    "sounds": [
+      {
+        "name": "discdelight:cascade",
+        "stream": true
+      }
+    ]
+  },
+
+  "celebration": {
+    "sounds": [
+      {
+        "name": "discdelight:celebration",
+        "stream": true
+      }
+    ]
+  },
+  "comet": {
+    "sounds": [
+      {
+        "name": "discdelight:comet",
+        "stream": true
+      }
+    ]
+  },
+  "forest": {
+    "sounds": [
+      {
+        "name": "discdelight:forest",
+        "stream": true
+      }
+    ]
+  },
+  "gilded": {
+    "sounds": [
+      {
+        "name": "discdelight:gilded",
+        "stream": true
+      }
+    ]
+  },
+  "glide": {
+    "sounds": [
+      {
+        "name": "discdelight:glide",
+        "stream": true
+      }
+    ]
+  },
+  "guardian": {
+    "sounds": [
+      {
+        "name": "discdelight:guardian",
+        "stream": true
+      }
+    ]
+  },
+  "husk": {
+    "sounds": [
+      {
+        "name": "discdelight:husk",
+        "stream": true
+      }
+    ]
+  },
+  "lightning": {
+    "sounds": [
+      {
+        "name": "discdelight:lightning",
+        "stream": true
+      }
+    ]
+  },
+  "luminous": {
+    "sounds": [
+      {
+        "name": "discdelight:luminous",
+        "stream": true
+      }
+    ]
+  },
+  "mineshaft": {
+    "sounds": [
+      {
+        "name": "discdelight:mineshaft",
+        "stream": true
+      }
+    ]
+  },
+  "no_escape": {
+    "sounds": [
+      {
+        "name": "discdelight:no_escape",
+        "stream": true
+      }
+    ]
+  },
+
+  "northern_lights": {
+    "sounds": [
+      {
+        "name": "discdelight:northern_lights",
+        "stream": true
+      }
+    ]
+  },
+  "ochre": {
+    "sounds": [
+      {
+        "name": "discdelight:ochre",
+        "stream": true
+      }
+    ]
+  },
+  "overtune": {
+    "sounds": [
+      {
+        "name": "discdelight:overtune",
+        "stream": true
+      }
+    ]
+  },
+  "pumpkin": {
+    "sounds": [
+      {
+        "name": "discdelight:pumpkin",
+        "stream": true
+      }
+    ]
+  },
+  "raiders": {
+    "sounds": [
+      {
+        "name": "discdelight:raiders",
+        "stream": true
+      }
+    ]
+  },
+  "ribbit": {
+    "sounds": [
+      {
+        "name": "discdelight:ribbit",
+        "stream": true
+      }
+    ]
+  },
+  "shrieker": {
+    "sounds": [
+      {
+        "name": "discdelight:shrieker",
+        "stream": true
+      }
+    ]
+  },
+  "shrieker_x_brute": {
+    "sounds": [
+      {
+        "name": "discdelight:shrieker_x_brute",
+        "stream": true
+      }
+    ]
+  },
+  "shulker": {
+    "sounds": [
+      {
+        "name": "discdelight:shulker",
+        "stream": true
+      }
+    ]
+  },
+  "sleigh": {
+    "sounds": [
+      {
+        "name": "discdelight:sleigh",
+        "stream": true
+      }
+    ]
+  },
+  "snowstorm": {
+    "sounds": [
+      {
+        "name": "discdelight:snowstorm",
+        "stream": true
+      }
+    ]
+  },
+
+  "soulless": {
+    "sounds": [
+      {
+        "name": "discdelight:soulless",
+        "stream": true
+      }
+    ]
+  },
+  "stride": {
+    "sounds": [
+      {
+        "name": "discdelight:stride",
+        "stream": true
+      }
+    ]
+  },
+  "the_ender_dragon": {
+    "sounds": [
+      {
+        "name": "discdelight:the_ender_dragon",
+        "stream": true
+      }
+    ]
+  },
+  "the_wither": {
+    "sounds": [
+      {
+        "name": "discdelight:the_wither",
+        "stream": true
+      }
+    ]
+  },
+  "thunder_storm": {
+    "sounds": [
+      {
+        "name": "discdelight:thunder_storm",
+        "stream": true
+      }
+    ]
+  },
+  "time": {
+    "sounds": [
+      {
+        "name": "discdelight:time",
+        "stream": true
+      }
+    ]
+  },
+  "tundra": {
+    "sounds": [
+      {
+        "name": "discdelight:tundra",
+        "stream": true
+      }
+    ]
+  },
+  "underscore": {
+    "sounds": [
+      {
+        "name": "discdelight:underscore",
+        "stream": true
+      }
+    ]
+  },
+  "voyage": {
+    "sounds": [
+      {
+        "name": "discdelight:voyage",
+        "stream": true
+      }
+    ]
+  },
+  "warden_run": {
+    "sounds": [
+      {
+        "name": "discdelight:warden_run",
+        "stream": true
+      }
+    ]
+  }
+}
